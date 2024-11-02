@@ -1,0 +1,3 @@
+CREATE ROLE branch_manager;
+
+GRANT INSERT, DELETE, UPDATE ON BRANCH547 TO branch_manager;
